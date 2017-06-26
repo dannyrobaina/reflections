@@ -2,3 +2,11 @@ Q) What happens when you initialize a repository? Why do you need to do it?
 
 A) When you initialize a repository a file directory called .git is created which stores meta date for git
 to use. We need it so git can run on this directory. The files become trackable and we can begin a commit history.
+
+
+Q) How is the staging area different from the working directory and the repository? What value do you think 
+it offers?
+
+A) The staging area is where files are added to become commited. The working directory is the directory 
+that has files being worked on but are not ready to be commited. A repository is a directory of the files that have
+been commited. The area adds a lot of value in planning which files to commit.
