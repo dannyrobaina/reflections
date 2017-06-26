@@ -35,3 +35,9 @@ Q) What is the result of merging two branches together? Why do we represent it i
 A) The result of merging two branches together is the branch that is being merged is intergrated with the branch 
 being checked out. It combines all the features with both branches. It is represented in the diagram that way
 because it shows how the new commit has access to all the previous commits from each branch.
+
+
+Q) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A) The pros for automatic merging is it saves time with combine features. Thee con is sometimes git
+does not know which code to add/remove when the same lines of code have been updated.
