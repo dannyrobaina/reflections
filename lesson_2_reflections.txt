@@ -28,3 +28,10 @@ Q) How do the diagrams help you visualize the branch structure?
 
 A) The diagram help visualize where the branchs share parents and where they  dont. It shows how the commits are
 reachable and how some commits are unreachable depending on your position in the branch.
+
+
+Q) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A) The result of merging two branches together is the branch that is being merged is intergrated with the branch 
+being checked out. It combines all the features with both branches. It is represented in the diagram that way
+because it shows how the new commit has access to all the previous commits from each branch.
