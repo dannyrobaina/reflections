@@ -1,0 +1,4 @@
+Q) What happens when you initialize a repository? Why do you need to do it?
+
+A) When you initialize a repository a file directory called .git is created which stores meta date for git
+to use. We need it so git can run on this directory. The files become trackable and we can begin a commit history.
