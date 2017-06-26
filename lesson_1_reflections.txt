@@ -1,0 +1,43 @@
+Q) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A) Viewing the diff between two versions of a file helps notice typos in code. It makes it easier
+to locate bugs in files with large amounts of text.
+
+
+Q) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A) Having access to the entire history of a file makes it easier to rollback to previous changes when you run into a dead end.
+You can also go over the changes made by others and compare them with previous version.
+
+
+Q) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+A) The pros of manually choosing when to create a commit is you can control when to save after you have made
+a logical change. Logical changes can be ig or small. The con is if you forget to save manually you can have 
+huge changes from the previous version.
+
+Q) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+A) Git allows multiple files because a logical change could include mutliple files where in other VSN the logical
+change can only happen in one file.
+
+
+Q) How can you use the commands git log and git diff to view the history of files?
+
+A) Git log displays all the previous commits in the project. It displays a unique ID with each commit and a message
+of what change was made for the commit. Git diff compares two files using the commit id to see what lines were added
+and deleted. To see the changes on a file, compare that file with the previous file.
+
+
+Q) How might using version control make you more confident to make changes that could break something?
+
+A) Version controls makes it easier to revert to a previous version. This gives confidence to break something knowing
+you can always revert back to when the logic was introduced. 
+
+
+Q) Now that you have your workspace set up, what do you want to try using Git for?
+
+A) I would like to use git to work on my Mom's website for her restuarant. I can see using git will give me more
+room to explore while I make changes to her website.
