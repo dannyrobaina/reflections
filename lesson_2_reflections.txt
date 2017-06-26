@@ -10,3 +10,8 @@ it offers?
 A) The staging area is where files are added to become commited. The working directory is the directory 
 that has files being worked on but are not ready to be commited. A repository is a directory of the files that have
 been commited. The area adds a lot of value in planning which files to commit.
+
+Q) How can you use the staging area to make sure you have one commit per logical change?
+
+A) The staging area is used to go over what file changes have been made using diff. It used as a final checkpoint
+before commiting to see only 1 logical change was made
