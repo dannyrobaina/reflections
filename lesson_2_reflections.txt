@@ -15,3 +15,10 @@ Q) How can you use the staging area to make sure you have one commit per logical
 
 A) The staging area is used to go over what file changes have been made using diff. It used as a final checkpoint
 before commiting to see only 1 logical change was made
+
+
+Q) What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+A) Branched are ueful when you want to introduce a new feature but want to keep a working copy of your project.
+Branched help in copying the master and poroviding flexibility to explore and edit the program for that feature.
