@@ -22,3 +22,9 @@ How would branches help?
 
 A) Branched are ueful when you want to introduce a new feature but want to keep a working copy of your project.
 Branched help in copying the master and poroviding flexibility to explore and edit the program for that feature.
+
+
+Q) How do the diagrams help you visualize the branch structure?
+
+A) The diagram help visualize where the branchs share parents and where they  dont. It shows how the commits are
+reachable and how some commits are unreachable depending on your position in the branch.
