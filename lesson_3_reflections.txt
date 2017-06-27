@@ -9,3 +9,11 @@ up-to-date with your remote repository?
 
 A) You might want to manually pull to control the file you are working on without interference from updates.
 Updates can also bring new bugs.
+
+
+Q) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A) Fork is used to clone a git repository into your own git repository. Clone is used to clone your git repository
+into your own local computer. You can also use clone to clone a local repository into another location in your 
+local computer. Branches are used edit the master to keep the master intact and functioning and giving freedom
+to explore in the branch.
