@@ -17,3 +17,8 @@ A) Fork is used to clone a git repository into your own git repository. Clone is
 into your own local computer. You can also use clone to clone a local repository into another location in your 
 local computer. Branches are used edit the master to keep the master intact and functioning and giving freedom
 to explore in the branch.
+
+
+Q) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A) The benefit is when you go offline you can still work with the more recent remote version offline. 
