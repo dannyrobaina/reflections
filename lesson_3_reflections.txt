@@ -21,4 +21,10 @@ to explore in the branch.
 
 Q) What is the benefit of having a copy of the last known state of the remote stored locally?
 
-A) The benefit is when you go offline you can still work with the more recent remote version offline. 
+A) The benefit is when you go offline you can still work with the more recent remote version offline.
+
+
+Q) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A) I would collaborate with others using a dropox. It would be to easier to upload files. It would be harder
+to keep track of changes done to each file. 
